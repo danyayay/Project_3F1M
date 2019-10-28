@@ -34,7 +34,7 @@ Finally, the dataset may still contain duplicates inspection reports. Hence, we 
    - Download the dataset and set up the work environment.
    - Remove useless columns.
    - Figure out how to identify duplicate records and remove them.
-   - Read further documentation of the dataset in order to understand how to handle and map the changes in the `Violations` column.
+   - Read further documentation of the dataset in order to understand how to handle and map the changes in the "Violations" column.
    - Check if the geomarkers are accurate enough for the later Map visualizations.
       
 **Week2:**
