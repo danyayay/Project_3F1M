@@ -57,6 +57,28 @@ Finally, the dataset may still contain duplicates inspection reports. Hence, we 
 
 Milestone 2: November 25
 
+**Week5:** 
+
+   - Start selecting the most relevant aspects of our milestone 2 analysis
+   - Further analysis of particular research questions, if necesseary 
+   - Find the most appropiate visulisation formats for our project, the ones highlighting the best our conclusions
+      
+**Week6:**
+
+- Complete the analysis 
+   - Get used with the Jekyll platform (tutorials, options, functionalities)
+   - Start uploading visualisations and comments to the blog 
+
+**Week7:**
+
+- Build up the data story : organize the different parts according to our guideline
+   - Start thinking on the poster layout 
+
+**Week8:**
+
+   - Finish the data story blog and clean up the final notebook containing the code 
+   - FInish the poster 
+
 # Questions for Tas
 
 - Are there tools other than Folium that we could use to realize an interactive map?
